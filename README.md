@@ -25,14 +25,12 @@ This project uses Sentiment Analysis to examine the correlation between GameStop
 
 * **Tingo API** - To gather GME’s historical stock price data we used the financial research API *Tiingo* to download the ticker values of the stock from the 28th January 2021 to the 5th February 2021.
 
-
 ## Notebooks
 
 There are mainly two Jupyter notebooks included in this repository
 
 * **Data_Exploration.ipynb** -  This notebook contains the data exploration that was done as part of this project.
 * **ML_Models.ipynb** -  This notebook contains the ML Models and other analysis that was done as part of this project. Logistic Regression, Linear SVC and Multinomial Naïve Bayes were the models used. This file also contains comparison of these models, their confusion matrix and other relevant visualisations.
-
 
 ## Authors
 
